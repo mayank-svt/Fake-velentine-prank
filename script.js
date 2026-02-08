@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
   const envelope = document.getElementById("envelope");
-  const envelopeContainer = document.getElementById("envelopeContainer");
   const letterBox = document.getElementById("letterBox");
   const heartsContainer = document.querySelector(".hearts");
 
